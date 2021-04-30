@@ -1,0 +1,14 @@
+-- falsescript, a mix of lua and javascript maybe.
+local cgfcx = "bruh"
+if cgfcx then {
+  print("this prints once") -- prints once
+  print("bruh"{ amount: 69 }) -- prints bruh 69 times
+} elseif print then {
+  local bruh = (
+    "bingus",
+    "bingus"
+  )
+  for _, v in oaat(bruh) do {
+    print(v)
+  }
+}
